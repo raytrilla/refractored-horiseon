@@ -19,6 +19,9 @@ To understand Semantic elements - https://www.w3schools.com/html/html5_semantic_
 To gain insight on best refractoring practices - https://www.youtube.com/watch?v=lgjnNAU_z-Y&t=264s
 
 # Live Horiseon Website link
+https://raytrilla.github.io/refractored-horiseon/
 
 # Github repository Link
 https://github.com/raytrilla/refractored-horiseon.git
+
+# Image of application
